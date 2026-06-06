@@ -1,0 +1,31 @@
+B1000, Harry Potter and the Sorcerers Stone, 31.11
+B1001, Harry Potter and the Chamber of Secrets, 149.93
+B1002, Harry Potter and the Prisoner of Azkaban, 170.97
+B1003, Harry Potter and the Goblet of Fire, 179.47
+B1004, Harry Potter and the Order of the Phoenix, 122.85
+B1005, Harry Potter and the Half-Blood Prince, 138.56
+B1006, Harry Potter and the Deathly Hallows, 145.36
+B1007, The Hobbit, 80.77
+B1008, The Lord of the Rings: Fellowship, 122.40
+B1009, The Lord of the Rings: Two Towers, 170.16
+B1010, The Lord of the Rings: Return of the King, 142.74
+B1011, Home Alone: The Novelization, 1.16
+B1012, Clean Code, 17.79
+B1013, The Pragmatic Programmer, 126.39
+B1014, Design Patterns, 132.27
+B1015, Refactoring, 127.22
+B1016, Introduction to Algorithms, 164.79
+B1017, Computer Networks, 49.75
+B1018, Operating Systems, 160.38
+B1019, Database System Concepts, 80.02
+B1020, Artificial Intelligence, 44.65
+B1021, Deep Learning, 115.26
+B1022, Python Crash Course, 85.24
+B1023, Java: The Complete Reference, 48.22
+B1024, Head First Java, 31.40
+B1025, Effective Java, 135.36
+B1026, Spring in Action, 172.48
+B1027, Microservices Patterns, 140.18
+B1028, The Phoenix Project, 189.50
+B1029, Site Reliability Engineering, 189.31
+P9999, StudentID_2199_Demo, 0.01

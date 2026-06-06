@@ -1,0 +1,31 @@
+G1000, Organic Milk, 41.34
+G1001, Whole Wheat Bread, 11.32
+G1002, Free Range Eggs, 3.48
+G1003, Olive Oil, 131.22
+G1004, Greek Yogurt, 143.09
+G1005, Cheddar Cheese, 158.13
+G1006, Chicken Breast, 77.77
+G1007, Salmon Fillet, 164.01
+G1008, Brown Rice, 63.95
+G1009, Pasta, 31.37
+G1010, Tomato Sauce, 184.47
+G1011, Mixed Nuts, 55.82
+G1012, Granola Bar, 106.34
+G1013, Orange Juice, 57.98
+G1014, Green Tea, 74.22
+G1015, Dark Chocolate, 24.59
+G1016, Almond Butter, 79.50
+G1017, Honey, 155.40
+G1018, Avocado, 24.75
+G1019, Baby Spinach, 189.01
+G1020, Cherry Tomatoes, 40.05
+G1021, Blueberries, 113.95
+G1022, Oat Flakes, 164.05
+G1023, Protein Powder, 168.08
+G1024, Coconut Water, 195.04
+G1025, Sparkling Water, 184.97
+G1026, Black Coffee, 163.58
+G1027, Quinoa, 109.86
+G1028, Lentil Soup, 15.91
+G1029, Canned Tuna, 161.95
+P9999, StudentID_2199_Demo, 0.01

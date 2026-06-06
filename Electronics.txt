@@ -1,0 +1,31 @@
+E1000, iPhone 16 Pro, 183.50
+E1001, Xiaomi 14 Ultra, 163.77
+E1002, Samsung Galaxy S25, 28.24
+E1003, Blackberry Bold 9900, 22.09
+E1004, Webcam, 87.86
+E1005, USB Hub, 115.73
+E1006, Monitor Stand, 9.19
+E1007, Laptop Cooling Pad, 106.07
+E1008, Bluetooth Speaker, 57.50
+E1009, Samsung Galaxy Buds, 93.42
+E1010, Xiaomi Smart Watch, 27.52
+E1011, iPhone MagSafe Charger, 166.96
+E1012, LED Desk Lamp, 131.67
+E1013, Graphics Tablet, 95.15
+E1014, VR Headset, 158.99
+E1015, Blackberry Passport, 124.43
+E1016, Drone, 124.94
+E1017, Samsung Smart Plug, 123.89
+E1018, Digital Thermometer, 160.76
+E1019, Laser Pointer, 115.38
+E1020, Xiaomi Mini Projector, 180.51
+E1021, Card Reader, 99.68
+E1022, Cable Organizer, 114.82
+E1023, iPhone Screen Protector, 169.37
+E1024, Phone Stand, 20.37
+E1025, Xiaomi Stylus Pen, 10.23
+E1026, Solar Charger, 160.89
+E1027, Samsung Fingerprint Scanner, 190.52
+E1028, Blackberry KEYone, 157.93
+E1029, Xiaomi Smart Ring, 183.65
+P9999, StudentID_2199_Demo, 0.01

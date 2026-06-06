@@ -1,0 +1,31 @@
+C1000, Louis Vuitton Monogram Tote, 131.04
+C1001, Versace Medusa T-Shirt, 57.01
+C1002, Baggy Jeans, 191.84
+C1003, Prada Nylon Jacket, 72.99
+C1004, Louis Vuitton Belt, 107.88
+C1005, Versace Baroque Shirt, 92.48
+C1006, Baggy Cargo Pants, 167.64
+C1007, Prada Wool Coat, 73.89
+C1008, Louis Vuitton Hoodie, 13.43
+C1009, Versace Gold Polo, 61.25
+C1010, Running Shorts, 114.41
+C1011, Prada Cap, 149.37
+C1012, Baseball Cap, 21.41
+C1013, Louis Vuitton Scarf, 20.12
+C1014, Raincoat, 116.62
+C1015, Versace Dress Shirt, 29.02
+C1016, Swim Trunks, 35.19
+C1017, Thermal Underwear, 78.15
+C1018, Baggy Bomber Jacket, 1.39
+C1019, Prada Chino Pants, 164.44
+C1020, Tank Top, 173.34
+C1021, Louis Vuitton Shorts, 186.89
+C1022, Fleece Pullover, 109.22
+C1023, Versace Puffer Vest, 35.18
+C1024, Cycling Jersey, 107.37
+C1025, Baggy Hiking Pants, 168.33
+C1026, Prada Graphic Tee, 194.36
+C1027, Versace Cardigan, 143.69
+C1028, Louis Vuitton Windbreaker, 155.04
+C1029, Prada Trench Coat, 75.57
+P9999, StudentID_2199_Demo, 0.01

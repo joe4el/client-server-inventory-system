@@ -1,0 +1,121 @@
+M0001, iPhone 16 Pro, 183.50
+M0002, Xiaomi 14 Ultra, 163.77
+M0003, Samsung Galaxy S25, 28.24
+M0004, Blackberry Bold 9900, 22.09
+M0005, Webcam, 87.86
+M0006, USB Hub, 115.73
+M0007, Monitor Stand, 9.19
+M0008, Laptop Cooling Pad, 106.07
+M0009, Bluetooth Speaker, 57.50
+M0010, Samsung Galaxy Buds, 93.42
+M0011, Xiaomi Smart Watch, 27.52
+M0012, iPhone MagSafe Charger, 166.96
+M0013, LED Desk Lamp, 131.67
+M0014, Graphics Tablet, 95.15
+M0015, VR Headset, 158.99
+M0016, Blackberry Passport, 124.43
+M0017, Drone, 124.94
+M0018, Samsung Smart Plug, 123.89
+M0019, Digital Thermometer, 160.76
+M0020, Laser Pointer, 115.38
+M0021, Xiaomi Mini Projector, 180.51
+M0022, Card Reader, 99.68
+M0023, Cable Organizer, 114.82
+M0024, iPhone Screen Protector, 169.37
+M0025, Phone Stand, 20.37
+M0026, Xiaomi Stylus Pen, 10.23
+M0027, Solar Charger, 160.89
+M0028, Samsung Fingerprint Scanner, 190.52
+M0029, Blackberry KEYone, 157.93
+M0030, Xiaomi Smart Ring, 183.65
+M0031, StudentID_2199_Demo, 0.01
+M0032, Louis Vuitton Monogram Tote, 131.04
+M0033, Versace Medusa T-Shirt, 57.01
+M0034, Baggy Jeans, 191.84
+M0035, Prada Nylon Jacket, 72.99
+M0036, Louis Vuitton Belt, 107.88
+M0037, Versace Baroque Shirt, 92.48
+M0038, Baggy Cargo Pants, 167.64
+M0039, Prada Wool Coat, 73.89
+M0040, Louis Vuitton Hoodie, 13.43
+M0041, Versace Gold Polo, 61.25
+M0042, Running Shorts, 114.41
+M0043, Prada Cap, 149.37
+M0044, Baseball Cap, 21.41
+M0045, Louis Vuitton Scarf, 20.12
+M0046, Raincoat, 116.62
+M0047, Versace Dress Shirt, 29.02
+M0048, Swim Trunks, 35.19
+M0049, Thermal Underwear, 78.15
+M0050, Baggy Bomber Jacket, 1.39
+M0051, Prada Chino Pants, 164.44
+M0052, Tank Top, 173.34
+M0053, Louis Vuitton Shorts, 186.89
+M0054, Fleece Pullover, 109.22
+M0055, Versace Puffer Vest, 35.18
+M0056, Cycling Jersey, 107.37
+M0057, Baggy Hiking Pants, 168.33
+M0058, Prada Graphic Tee, 194.36
+M0059, Versace Cardigan, 143.69
+M0060, Louis Vuitton Windbreaker, 155.04
+M0061, Prada Trench Coat, 75.57
+M0062, Organic Milk, 41.34
+M0063, Whole Wheat Bread, 11.32
+M0064, Free Range Eggs, 3.48
+M0065, Olive Oil, 131.22
+M0066, Greek Yogurt, 143.09
+M0067, Cheddar Cheese, 158.13
+M0068, Chicken Breast, 77.77
+M0069, Salmon Fillet, 164.01
+M0070, Brown Rice, 63.95
+M0071, Pasta, 31.37
+M0072, Tomato Sauce, 184.47
+M0073, Mixed Nuts, 55.82
+M0074, Granola Bar, 106.34
+M0075, Orange Juice, 57.98
+M0076, Green Tea, 74.22
+M0077, Dark Chocolate, 24.59
+M0078, Almond Butter, 79.50
+M0079, Honey, 155.40
+M0080, Avocado, 24.75
+M0081, Baby Spinach, 189.01
+M0082, Cherry Tomatoes, 40.05
+M0083, Blueberries, 113.95
+M0084, Oat Flakes, 164.05
+M0085, Protein Powder, 168.08
+M0086, Coconut Water, 195.04
+M0087, Sparkling Water, 184.97
+M0088, Black Coffee, 163.58
+M0089, Quinoa, 109.86
+M0090, Lentil Soup, 15.91
+M0091, Canned Tuna, 161.95
+M0092, Harry Potter and the Sorcerers Stone, 31.11
+M0093, Harry Potter and the Chamber of Secrets, 149.93
+M0094, Harry Potter and the Prisoner of Azkaban, 170.97
+M0095, Harry Potter and the Goblet of Fire, 179.47
+M0096, Harry Potter and the Order of the Phoenix, 122.85
+M0097, Harry Potter and the Half-Blood Prince, 138.56
+M0098, Harry Potter and the Deathly Hallows, 145.36
+M0099, The Hobbit, 80.77
+M0100, The Lord of the Rings: Fellowship, 122.40
+M0101, The Lord of the Rings: Two Towers, 170.16
+M0102, The Lord of the Rings: Return of the King, 142.74
+M0103, Home Alone: The Novelization, 1.16
+M0104, Clean Code, 17.79
+M0105, The Pragmatic Programmer, 126.39
+M0106, Design Patterns, 132.27
+M0107, Refactoring, 127.22
+M0108, Introduction to Algorithms, 164.79
+M0109, Computer Networks, 49.75
+M0110, Operating Systems, 160.38
+M0111, Database System Concepts, 80.02
+M0112, Artificial Intelligence, 44.65
+M0113, Deep Learning, 115.26
+M0114, Python Crash Course, 85.24
+M0115, Java: The Complete Reference, 48.22
+M0116, Head First Java, 31.40
+M0117, Effective Java, 135.36
+M0118, Spring in Action, 172.48
+M0119, Microservices Patterns, 140.18
+M0120, The Phoenix Project, 189.50
+M0121, Site Reliability Engineering, 189.31
